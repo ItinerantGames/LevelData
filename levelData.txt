@@ -1,1 +1,1 @@
-object:Cube\nposition:(0.0, -1.0, 0.0)\nrotation:(0.0, 0.0, 0.0, 1.0)\nscale:(8.0, 1.0, 15.3)\n@object:Cube\nposition:(-0.2, -1.0, 10.0)\nrotation:(0.0, 0.0, 0.0, 1.0)\nscale:(1.9, 1.0, 15.3)\n@object:Goal\nposition:(-0.2, -1.0, 17.5)\nrotation:(0.0, 0.0, 0.0, 1.0)\nscale:(3.2, 1.0, 2.5)\n
+object:Cube|position:(0.0, -1.0, 0.0)|rotation:(0.0, 0.0, 0.0, 1.0)|scale:(8.0, 1.0, 15.3)|@object:Cube|position:(-0.2, -1.0, 10.0)|rotation:(0.0, 0.0, 0.0, 1.0)|scale:(1.9, 1.0, 15.3)|@object:Goal|position:(-0.2, -1.0, 17.5)|rotation:(0.0, 0.0, 0.0, 1.0)|scale:(3.2, 1.0, 2.5)|
