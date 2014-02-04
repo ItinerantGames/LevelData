@@ -1,1 +1,1 @@
-object:Cube2
+object:Cube2 Test
