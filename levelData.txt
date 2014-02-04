@@ -1,1 +1,1 @@
-browserTest2
+object:Cube
