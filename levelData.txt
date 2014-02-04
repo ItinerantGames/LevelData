@@ -1,1 +1,1 @@
-object:Cube position:(0.0, -1.0, 0.0) rotation:(0.0, 0.0, 0.0, 1.0)
+object:Cube position:(0.0, -1.0, 0.0) rotation:(0.0, 0.0, 0.0, 1.0) scale:(8.0, 1.0, 15.3) @object:Cube
